@@ -1,1 +1,1 @@
-# Ai-patient-associate-
+# ai-medical-assistant
